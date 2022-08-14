@@ -162,31 +162,3 @@ public class SchoolSystemTester {
 
 	
 
-/*
-idea dump: 
-	Give the school a name
-	School has teacher
-	School has student
-	EACH student has a :
-		name
-		grade (age)
-		grade (score)
-		recommendation for next course
-	TWO KINDS OF STUDENTS; ACADEMIC ORIENTED, ATHLETIC ORIENTED (inheritance)
-	
-	EACH teacher has a :
-		name
-		subject(s) they teach
-		number of students per class
-
-testing out the system:
-	you can add students to your class roster (arraylist probably)
-	give your students feedback: report
-	give your students midterm and final grades! 
-
-
-finally get the info of each student
-	grade, report, feedback....
-	
-
-*/
